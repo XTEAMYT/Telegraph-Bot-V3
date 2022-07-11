@@ -16,20 +16,20 @@ H![✨](https://telegra.ph/file/1434d9d0eb6a8bf00456a.jpg)
 I am Telegraph Media Converter🧳 Create by Telegraph v3
 I can create Pictures under 5MB
 
-~ @Master_X_Updates ~
+~ @BoTs_UPdateS_2022 ~
 """
 HELP_TEXT = """
 - Just give me a media under 5MB
 - Then I will download it
 - I will then upload it to the telegra.ph link
 
-Support ~ @Master_X_Updates ~
+Support ~ @BoTs_UPdateS_2022 ~
 """
 ABOUT_TEXT = """
 - **Bot :** `Telegraph Uploader v3`
 - **Python3 :** `3.9.6`
-- **Updates Channel: **[Master X Bot's Updates](t.me/Master_X_Updates)
-- **Support :** [Best Friends](t.me/Best_Friends15)
+- **Updates Channel: **[Master X Bot's Updates](https://t.me/BoTs_UPdateS_2022)
+- **Support :** [Best Friends](https://t.me/MoRe_BoTs)
 
 """
 START_BUTTONS = InlineKeyboardMarkup(
@@ -48,8 +48,8 @@ HELP_BUTTONS = InlineKeyboardMarkup(
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Support', url="t.me/Best_Friends15"),
-        InlineKeyboardButton('Updates', url='https://t.me/Master_X_Updates')
+        InlineKeyboardButton('Support', url="https://t.me/MoRe_BoTs"),
+        InlineKeyboardButton('Updates', url='https://t.me/BoTs_UPdateS_2022')
         ],
         [
         InlineKeyboardButton('Home', callback_data='home'),
